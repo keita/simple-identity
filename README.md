@@ -2,6 +2,8 @@
 
 simple-identity is a Ruby library for providing simple identity methods of #eql?, #==, and #hash.
 
+[![Gem Version](https://badge.fury.io/rb/simple-identity.png)](http://badge.fury.io/rb/simple-identity) [![Build Status](https://travis-ci.org/keita/simple-identity.png?branch=master)](https://travis-ci.org/keita/simple-identity) [![Coverage Status](https://coveralls.io/repos/keita/simple-identity/badge.png?branch=master)](https://coveralls.io/r/keita/simple-identity) [![Code Climate](https://codeclimate.com/github/keita/simple-identity.png)](https://codeclimate.com/github/keita/simple-identity)
+
 ## Installation
 
     $ gem install simple-identity
