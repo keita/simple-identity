@@ -1,7 +1,6 @@
 # simple-identity
 
-simple-identity is a Ruby library for providing simple identity methods of
-#eql?, #==, and #hash.
+simple-identity is a Ruby library for providing simple identity methods of #eql?, #==, and #hash.
 
 ## Installation
 
